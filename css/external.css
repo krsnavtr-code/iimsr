@@ -1,0 +1,627 @@
+@media(max-width:992px){
+    .OnlineResult {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 17% !important;
+        float: left !important;
+        margin: 5px 1px 3px 1px !important;
+    }    
+    .OnlineLogins {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 17% !important;
+        float: left !important;
+        margin: 5px 1px 3px 1px !important;
+    }
+    .OnlineVideo {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 33% !important;
+        float: left !important;
+        margin: 5px 1px 0px 1px !important;
+    }
+    .OnlinePPT {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 30% !important;
+        float: left !important;
+        margin: 5px 1px 0px 1px !important;
+    }
+    .OnlineProspectus {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 42%;
+        float: left;
+        margin: 5px 1px 0px 1px;
+    }
+    .OnlineExam {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 48% !important;
+        float: left !important;
+        margin: 5px 1px 0px 1px !important;
+    }
+    .OnlineImportant {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 48% !important;
+        float: left !important;
+        margin: 5px 1px 3px 1px !important;
+    }
+    .OnlineProspectus {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 48% !important;
+        float: left !important;
+        margin: 5px 1px 0px -120px !important;
+    }
+    .OnlineGST {
+        border-radius: 0px;
+        padding: 6px 5px !important;
+        font-size: 13px !important;
+        text-transform: none !important;
+        width: 48% !important;
+        float: left !important;
+        margin: 5px 1px 3px 1px !important;
+    }
+}
+.Selectboxx{
+    border-radius: 0px !important;
+    margin-bottom: -26px;
+    height: 40px;
+    border: #2037bf61 1px solid;
+}
+.panel-group .panel {
+    margin-bottom: 0;
+    border-radius: 0px;
+}
+.panel-default {
+    border-color: #098be2;
+}
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #ffffff;
+    border-color: #098be2;
+}
+.EducationW{
+    color:#000 !important;
+    font-size:14px !important;
+}
+.EducationHead{
+    color:#000 !important;
+}
+.findcoursetxt{
+    background-color: #ffffff;
+}
+.CategoryImage{
+    width:100%;
+}
+.nav-tabs>li.sesu {
+    background-color: #2a6227;
+    border-color: #2a6227;
+}
+.nav-tabs>li.tou {
+    background-color: #efd204;
+    border-color: #efd204;
+}
+.Expertss{
+    width:150px;
+    height:150px;
+}
+.Blogclass{
+    padding:0px !important;
+}
+.Welcome1{
+    text-align:center;
+}
+.OnlineClass{
+    border-radius: 0px;
+    color: #fff !important;
+    font-size: 11px !important;
+}
+.OnlineImportant{
+    border-radius:0px;
+    padding: 5px 5px;
+    font-size: 13px !important;
+    text-transform: none !important;
+    width:15%;
+    float:left;
+    margin:5px 1px 3px 1px;
+}
+.OnlineGST{
+    border-radius:0px;
+    padding: 5px 5px;
+    font-size: 13px !important;
+    text-transform: none !important;
+    width:15%;
+    float:left;
+    margin:3px 1px 3px 1px;
+}
+.OnlineResult{
+    border-radius:0px;
+    padding: 5px 5px;
+    font-size: 13px !important;
+    text-transform: none !important;
+    width:11.1%;
+    float:left;
+    margin:5px 1px 3px 1px;
+}
+.OnlineLogins{
+    border-radius:0px;
+    padding: 5px 5px;
+    font-size: 13px !important;
+    text-transform: none !important;
+    width:10%;
+    float:left;
+    margin:3px 1px 3px 1px;
+}
+.OnlineExam{
+    border-radius:0px;
+    padding: 5px 5px;
+    font-size: 13px !important;
+    text-transform: none !important;
+    width:15%;
+    float:left;
+    margin:5px 1px 0px 1px;
+}
+.OnlineVideo{
+    border-radius:0px;
+    padding: 5px 5px;
+    font-size: 13px !important;
+    text-transform: none !important;
+    width:10%;
+    float:left;
+    margin:5px 1px 0px 1px;
+}
+.OnlinePPT{
+    border-radius:0px;
+    padding: 5px 5px;
+    font-size: 13px !important;
+    text-transform: none !important;
+    width:10%;
+    float:left;
+    margin:5px 1px 0px 1px;
+}
+.OnlineProspectus{
+    border-radius:0px;
+    padding: 5px 5px;
+    font-size: 13px !important;
+    text-transform: none !important;
+    width:11%;
+    float:left;
+    margin:5px 1px 0px 1px;
+}
+.Credentials{
+    border:#3ed281 1px solid !important;
+    border-radius:0px !important;
+}
+.KindlyLog{
+    text-align:center; 
+    color:#0000fd;
+}
+.LoginsPopup{
+    width:342px;
+    height:46px;
+    margin: 0px 0px 0px 23px;
+}
+.modal-dialog {
+    max-width: 415px;
+    margin: 87px 180px 0px 0px;
+    float: right;
+}
+.modal-body {
+    margin: 0px 0px 0px 42px;
+}
+.PPTImages{
+    height:280px !important;
+}
+.Lecturess{
+    margin:15px 0px 15px 0px;
+}
+/*-------------------For Result Start------------------*/
+.modaal {
+    display: none;
+    position: fixed;
+    z-index: 99999;
+    padding-top: 100px;
+    left: 340px;
+    top: -12px;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.modaal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modaall {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 340px;
+    top: -12px;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+.modaall-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+.closee {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.closee:hover,
+.closee:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+/*-------------------For Result End------------------*/
+/*-------------------Online Classes------------------*/
+.onlinemodal {
+    display: none;
+    position: fixed;
+    z-index: 999999;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgb(0 0 253 / 28%);
+}
+.onlinemodal-content {
+    background-color: #fff;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 56%;
+    color:#f30505;
+}
+.onlineclose {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.onlineclose:hover,
+.onlineclose:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.importdates{
+    color:red;
+    font-weight:700;
+}
+.ClassOnli{
+    text-align:center;
+}
+.IimsrClass{
+    background-color:#fff;
+}
+/*-------------------Online Classes-------*/
+/*-------------------Gst------------------*/
+.gstmodal {
+    display: none;
+    position: fixed;
+    z-index: 99999;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgb(0 0 253 / 28%);
+}
+.gstmodal-content {
+    background-color: #fff;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 56%;
+    color:#f30505;
+    text-align:justify;
+}
+.gstclose {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.gstclose:hover,
+.gstclose:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.importdates{
+    color:red;
+    font-weight:700;
+}
+/*-------------------Gst------------------*/
+.newmodal {
+    display: none;
+    position: fixed;
+    z-index: 999999;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+.nemodal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 56%;
+}
+.newclose {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.newclose:hover,
+.newclose:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.importdates{
+    color:red;
+    font-weight:700;
+}
+.blink {
+    animation: blinker 0.6s linear infinite;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+.blink-one {
+    animation: blinker-one 1s linear infinite;
+}
+@keyframes blinker-one {
+    0% {
+        opacity: 0;
+    }
+}
+.blink-two {
+    animation: blinker-two 1.4s linear infinite;
+}
+@keyframes blinker-two {
+    100% {
+        opacity: 0;
+    }
+}
+.importnot{ 
+    margin-bottom: 0px;
+    font-size: 14px;
+    color: #000;
+    line-height: 30px;
+}
+.YourPayment{
+    color: #000;
+}
+.Sectionding {
+    text-align: left;
+    margin: 0px 0px 20px 0px;
+    margin-left: 0px;
+    font-size: 36px;
+    font-weight: 700;
+}
+.SecurilyPaymenttt{
+    border-radius:0px;
+    border: #007bff 1px solid;
+}
+.left-border-pack {
+    padding: 8px;
+    border-left: 5px solid;
+    margin-bottom: 10px !important;
+    border-color: #235005;
+    color: #000;
+    font-size: 36px;
+    font-weight: 700;
+}
+.LearnMore{
+    height: 316px;
+}
+.PopupForm {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,.6);
+    z-index: 1001;
+}
+.PopupFor {
+    width: 555px;
+    height: 375px;
+    background: #FFFFFF;
+    border: 5px solid #000;
+    border-radius: 25px;
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+    box-shadow: #64686e 0px 0px 3px 3px;
+    -moz-box-shadow: #64686e 0px 0px 3px 3px;
+    -webkit-box-shadow: #64686e 0px 0px 3px 3px;
+    position: relative;
+    top: 150px; left: 375px;
+}
+@media(max-width:992px){
+    .Expertss {
+        width: 158px !important;
+        height: 62px !important;
+    }
+    .Sectionding {
+        margin: 0px 0px 0px 0px !important;
+    }
+    .BannerPay{
+        font-size: 33px !important;
+    }
+    .left-border-pack {
+        padding: 8px;
+        border-left: 5px solid;
+        margin-bottom: 0px !important;
+        border-color: #235005;
+        color: #000;
+        font-size: 28px !important;
+        font-weight: 700 !important;
+        margin-left: -17px !important;
+        margin-top: -34px !important;
+    }
+    .SecurilyPayment{
+        font-size: 18px !important;
+        margin: 10px 0px -21px 10px !important;
+    }
+}
+.QueryFormm{
+    border-radius: 0px !important;
+    border: #2037bf61 1px solid !important;
+}
+.Formont{
+    padding: 25px; 
+}
+.PopupFormm{
+    font-size:19px;
+}
+.PopupForm {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(98 173 224 / 43%);
+    z-index: 999999;
+}
+.ViewPrograa{
+    color: #f1594f;
+    text-align:center !important;
+}
+.PopupFor {
+    width: 453px;
+    height: 432px;
+    background: #FFFFFF;
+    border: 1px solid #000;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: #64686e 0px 0px 3px 3px;
+    -moz-box-shadow: #64686e 0px 0px 3px 3px;
+    -webkit-box-shadow: #64686e 0px 0px 3px 3px;
+    position: relative;
+    top: 100px;
+    left: 473px;
+}
+.cancelForm{
+    border-radius: 0px;
+}
+.SubmitForm{
+    border-radius: 0px;
+}
+.Resultll1{
+    height:60px;
+    margin: 0px 0px 0px 0px;
+}
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: #098be2;
+}
+@media(max-width:992px){
+    .nemodal-content {
+        width: 100% !important;
+    }
+    
+    .Resultll1{
+        height: 45px !important;
+        width: 318px !important;
+        margin: 0px 0px 0px 0px !important;
+    }
+    .modaal-content {
+        margin: 0px 0px 0px 29px !important;
+        width: 380px !important;
+    }
+    .modal-body {
+        margin: 0px 0px 0px 26px !important;
+    }
+    .LoginsPopup {
+        width: 314px !important;
+        height: 39px !important;
+        margin: 0px 0px 0px 0px !important;
+    }
+    .gstmodal-content {
+        width: 100% !important;
+    }
+    .PopupFor {
+        width: 380px !important;
+        height: 481px !important;
+        top: 107px !important;
+        left: 9px !important;
+    }
+    .cancelForm {
+        margin-bottom: 6px !important;
+    }
+    .modaal {
+        left: -30px !important;
+        top: 14px !important;
+        width: 425px !important;
+        height: 100% !important;
+    }
+    .modal-dialog {
+        width: 380px !important;
+        margin: 87px 9px 0px -8px !important;
+        float: right !important;
+    }
+}

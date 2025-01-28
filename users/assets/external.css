@@ -1,0 +1,42 @@
+@media(max-width:992px){
+    .UsersPanell{
+        width:175px !important;  
+    }
+    .grid-margin {
+        margin-bottom: 1px !important;
+    }
+}
+.ContactUst{
+    text-align:center;
+}
+.Bomdata{
+    width: calc(312px - 130px) !important;
+    width:175px !important;  
+}
+.AdmissonCofirma{
+    padding:25px;
+}
+p.OperationHas {
+    text-align: center;
+    color: green;
+    font-weight: 500;
+}
+p.AlreadyRegistered {
+    text-align: center;
+    color: #ff0000;
+    font-weight: 500;
+}
+.ViewDetails{
+    border-radius:0px;
+}
+.Submitotpp{
+    border-radius:0px;
+    margin-bottom:5px;
+    border: 1px solid #060ef5;
+}
+.bg-danger {
+    background-color: #f71212 !important;
+}
+.bg-primary{
+    background-color: #067c1a !important;
+}

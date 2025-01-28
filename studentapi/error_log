@@ -1,0 +1,674 @@
+[11-Nov-2021 06:07:19 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:07:19 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:07:27 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:07:27 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:09:59 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:09:59 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:10:07 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:10:07 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isTheseParametersAvailable() in /home/o17qonzlxlyz/public_html/studentapi/student-login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:11:58 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:11:58 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:07 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:07 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:07 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:12:10 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:10 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:10 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:12:16 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:16 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:16 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:12:18 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:18 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:18 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:12:18 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:18 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:18 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:12:19 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:19 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:19 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:12:19 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:19 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:19 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:12:20 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:20 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:20 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:12:21 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:21 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 2
+[11-Nov-2021 06:12:21 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:16:09 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:16:13 UTC] PHP Notice:  Undefined index: student-login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isTheseParametersAvailable() in /home/o17qonzlxlyz/public_html/studentapi/student-login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:17:22 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:17:22 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/o17qonzlxlyz/public_html/studentapi/student-login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[11-Nov-2021 06:17:57 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:17:57 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::bind_param() in /home/o17qonzlxlyz/public_html/studentapi/student-login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[11-Nov-2021 06:18:16 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:18:16 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:18:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::bind_param() in /home/o17qonzlxlyz/public_html/studentapi/student-login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[11-Nov-2021 06:18:20 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:18:20 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::bind_param() in /home/o17qonzlxlyz/public_html/studentapi/student-login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[11-Nov-2021 06:18:49 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:18:49 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:19:35 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:19:35 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:19:38 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:19:38 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:19:39 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:19:39 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:19:40 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 7
+[11-Nov-2021 06:19:40 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 8
+[11-Nov-2021 06:21:14 UTC] PHP Notice:  Undefined index: studentlogin in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:21:14 UTC] PHP Notice:  Undefined index: studentlogin in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 06:21:39 UTC] PHP Notice:  Undefined index: studentlogin in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:21:39 UTC] PHP Notice:  Undefined index: studentlogin in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 06:21:41 UTC] PHP Notice:  Undefined index: studentlogin in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:21:41 UTC] PHP Notice:  Undefined index: studentlogin in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 06:23:29 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:23:29 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 06:23:34 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:23:34 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 06:23:35 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 06:23:35 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:23:43 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:38 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:39 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:41 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:45 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:46 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:46 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:47 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:50 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:24:51 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:25:05 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:26:18 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 07:26:18 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:26:18 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 10
+[11-Nov-2021 07:26:19 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 5
+[11-Nov-2021 07:26:19 UTC] PHP Notice:  Undefined index: mobile_no in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 6
+[11-Nov-2021 07:26:19 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 10
+[13-Jan-2022 01:38:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 01:38:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 01:38:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 01:38:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 01:38:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 01:38:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 01:39:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 01:39:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 01:39:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 01:41:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 01:41:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 01:41:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 09:20:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 09:20:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 09:20:43 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 09:20:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 09:20:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 09:20:48 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 09:20:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 09:20:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 09:20:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 09:21:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 09:21:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 09:21:00 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 09:21:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 09:21:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 09:21:03 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 09:21:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 09:21:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 09:21:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 09:22:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 09:22:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 09:22:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 11:49:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 11:49:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 11:49:28 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 11:49:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 11:49:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 11:49:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 11:49:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 11:49:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 11:49:52 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 11:49:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 11:49:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 11:49:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 11:50:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 11:50:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 11:50:07 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 14:25:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 14:25:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 14:25:23 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[13-Jan-2022 14:25:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[13-Jan-2022 14:25:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[13-Jan-2022 14:25:48 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 04:20:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 04:20:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 04:20:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 04:20:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 04:20:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 04:20:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 06:34:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 06:34:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 06:34:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 06:34:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 06:34:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 06:34:50 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 06:34:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 06:34:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 06:34:54 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 06:34:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 06:34:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 06:34:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 06:34:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 06:34:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 06:34:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 06:35:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 06:35:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 06:35:12 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 06:35:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 06:35:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 06:35:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 08:14:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 08:14:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 08:14:36 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 08:14:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 08:14:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 08:14:44 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 08:15:13 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 08:15:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 08:15:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 08:15:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 08:15:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 08:15:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[14-Jan-2022 15:23:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[14-Jan-2022 15:23:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[14-Jan-2022 15:23:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:06:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:06:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:06:42 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:07:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:07:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:07:32 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:12:59 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:12:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:12:59 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:13:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:13:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:13:14 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:54:11 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:54:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:54:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:54:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:54:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:54:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:54:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:54:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:54:24 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:54:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:54:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:54:27 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:54:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:54:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:54:34 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[15-Jan-2022 11:54:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'vbimtorg_vbimt'@'localhost' (using password: YES) in /home/o17qonzlxlyz/public_html/studentapi/dbconnection.php on line 3
+[15-Jan-2022 11:54:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 11
+[15-Jan-2022 11:54:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/o17qonzlxlyz/public_html/studentapi/student-login.php on line 12
+[19-Nov-2023 15:22:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 15:23:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 15:24:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 15:32:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 15:32:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 15:32:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 15:38:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 15:39:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 15:39:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:39:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:39:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:39:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:40:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:40:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:42:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:42:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:42:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:44:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:44:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 17:44:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 18:21:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 18:21:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 18:21:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 18:25:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 18:26:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 18:26:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 18:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 18:28:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 19:34:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 19:34:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 19:34:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[19-Nov-2023 19:34:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[21-Nov-2023 20:07:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[21-Nov-2023 20:07:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[21-Nov-2023 20:08:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[21-Nov-2023 20:08:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[21-Nov-2023 22:04:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[21-Nov-2023 22:04:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[21-Nov-2023 22:04:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[21-Nov-2023 22:04:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 08:16:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 08:16:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 08:17:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 08:17:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 19:09:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 19:10:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 19:10:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 19:36:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 19:36:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[22-Nov-2023 19:36:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:10:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:10:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:10:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:10:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:11:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:11:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:11:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:11:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:11:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:12:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:12:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:12:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:12:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:12:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:13:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:13:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 09:13:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 21:27:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 21:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[23-Nov-2023 21:28:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[26-Nov-2023 16:01:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[26-Nov-2023 16:01:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3
+[26-Nov-2023 16:01:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'iimsr_online'@'localhost' (using password: YES) in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php:3
+Stack trace:
+#0 /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php(3): mysqli_connect()
+#1 /home/o17qonzlxlyz/iimsr.net.in/studentapi/student-login.php(2): include('/home/o17qonzlx...')
+#2 {main}
+  thrown in /home/o17qonzlxlyz/iimsr.net.in/studentapi/dbconnection.php on line 3

@@ -1,0 +1,606 @@
+[04-Nov-2022 09:13:24 UTC] PHP Warning:  include(dbconnection.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 1
+[04-Nov-2022 09:13:24 UTC] PHP Warning:  include(): Failed opening 'dbconnection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 1
+[04-Nov-2022 09:13:24 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 3
+[04-Nov-2022 09:13:24 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 3
+[04-Nov-2022 09:13:24 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 20
+[04-Nov-2022 09:13:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 20
+[04-Nov-2022 09:14:24 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 3
+[04-Nov-2022 09:14:24 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 3
+[04-Nov-2022 09:14:24 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 20
+[04-Nov-2022 09:14:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 20
+[04-Nov-2022 09:15:24 UTC] PHP Warning:  include(sidebar.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 3
+[04-Nov-2022 09:15:24 UTC] PHP Warning:  include(): Failed opening 'sidebar.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 3
+[04-Nov-2022 09:15:24 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 20
+[04-Nov-2022 09:15:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/index.php on line 20
+[04-Nov-2022 10:22:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 23
+[04-Nov-2022 10:22:22 UTC] PHP Warning:  A non-numeric value encountered in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 29
+[04-Nov-2022 10:22:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 23
+[04-Nov-2022 10:22:32 UTC] PHP Warning:  A non-numeric value encountered in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 29
+[04-Nov-2022 10:22:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 23
+[04-Nov-2022 10:22:55 UTC] PHP Notice:  Undefined variable: OnlyFee in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 42
+[04-Nov-2022 10:23:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 30
+[04-Nov-2022 10:23:25 UTC] PHP Notice:  Undefined variable: OnlyFee in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 43
+[04-Nov-2022 10:23:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 30
+[04-Nov-2022 10:23:58 UTC] PHP Warning:  A non-numeric value encountered in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 36
+[04-Nov-2022 10:25:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 30
+[04-Nov-2022 10:25:03 UTC] PHP Warning:  A non-numeric value encountered in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 36
+[04-Nov-2022 10:25:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 30
+[04-Nov-2022 10:25:10 UTC] PHP Warning:  A non-numeric value encountered in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 36
+[04-Nov-2022 10:25:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 30
+[04-Nov-2022 10:25:12 UTC] PHP Warning:  A non-numeric value encountered in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/status.php on line 36
+[09-Nov-2022 05:24:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/testimonial.php on line 89
+[09-Nov-2022 10:01:04 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:04 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:04 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:08 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:08 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:08 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:11 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:11 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:11 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:12 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:13 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:13 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:01:13 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:01:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:02:32 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:02:32 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:02:32 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:02:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:02:45 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:02:45 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:02:45 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:02:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:02:52 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:02:52 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 4
+[09-Nov-2022 10:02:52 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:02:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:03:32 UTC] PHP Warning:  require_once(qrcode.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 10:03:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'qrcode.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/result-print.php on line 5
+[09-Nov-2022 11:09:50 UTC] PHP Warning:  include(header/header.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/certificate-report.php on line 17
+[09-Nov-2022 11:09:50 UTC] PHP Warning:  include(): Failed opening 'header/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/certificate-report.php on line 17
+[09-Nov-2022 11:09:50 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/certificate-report.php on line 72
+[09-Nov-2022 11:09:50 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/certificate-report.php on line 72
+[09-Nov-2022 11:12:03 UTC] PHP Warning:  include(header/header.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/certificate-report.php on line 17
+[09-Nov-2022 11:12:03 UTC] PHP Warning:  include(): Failed opening 'header/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/certificate-report.php on line 17
+[09-Nov-2022 11:12:03 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/certificate-report.php on line 72
+[09-Nov-2022 11:12:03 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/certificate-report.php on line 72
+[09-Nov-2022 11:34:50 UTC] PHP Warning:  include(header/header.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/degree-report.php on line 14
+[09-Nov-2022 11:34:50 UTC] PHP Warning:  include(): Failed opening 'header/header.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/degree-report.php on line 14
+[09-Nov-2022 11:34:50 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/degree-report.php on line 177
+[09-Nov-2022 11:34:50 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o17qonzlxlyz/vbimtedu.org.in/users-12/degree-report.php on line 177
+[09-Nov-2022 12:10:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/o17qonzlxlyz/vbimtedu.org.in/users/status.php on line 201
+[09-Nov-2022 12:10:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/o17qonzlxlyz/vbimtedu.org.in/users/status.php on line 201
+[14-Dec-2022 04:01:30 UTC] PHP Notice:  Undefined index: enrolment in /home/o17qonzlxlyz/iimsr.net.in/users/result-marks-otp.php on line 6
+[21-Jan-2023 07:28:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 308
+[21-Jan-2023 07:28:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 317
+[21-Jan-2023 07:28:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 327
+[21-Jan-2023 07:28:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 560
+[21-Jan-2023 07:28:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 308
+[21-Jan-2023 07:28:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 317
+[21-Jan-2023 07:28:55 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 327
+[21-Jan-2023 07:28:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 308
+[21-Jan-2023 07:28:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 317
+[21-Jan-2023 07:28:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 327
+[21-Jan-2023 07:28:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 560
+[21-Jan-2023 07:28:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 308
+[21-Jan-2023 07:28:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 317
+[21-Jan-2023 07:28:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 327
+[21-Jan-2023 07:30:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 308
+[21-Jan-2023 07:30:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 317
+[21-Jan-2023 07:30:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 327
+[21-Jan-2023 07:30:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 560
+[21-Jan-2023 07:30:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 308
+[21-Jan-2023 07:30:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 317
+[21-Jan-2023 07:30:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/degree-print.php on line 327
+[31-Aug-2023 08:40:54 UTC] PHP Warning:  include(header/head.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 2
+[31-Aug-2023 08:40:54 UTC] PHP Warning:  include(): Failed opening 'header/head.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 2
+[31-Aug-2023 08:40:54 UTC] PHP Warning:  include(header/header.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 32
+[31-Aug-2023 08:40:54 UTC] PHP Warning:  include(): Failed opening 'header/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 32
+[31-Aug-2023 08:40:54 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 08:40:54 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 08:42:09 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[31-Aug-2023 08:42:09 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[31-Aug-2023 08:42:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[31-Aug-2023 08:42:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[31-Aug-2023 08:42:09 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 08:42:09 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 08:42:39 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[31-Aug-2023 08:42:39 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[31-Aug-2023 08:42:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[31-Aug-2023 08:42:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[31-Aug-2023 08:42:39 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 08:42:39 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[31-Aug-2023 09:09:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[31-Aug-2023 09:09:29 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[31-Aug-2023 09:09:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[31-Aug-2023 09:09:29 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 09:09:29 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[31-Aug-2023 11:55:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[31-Aug-2023 11:55:46 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[31-Aug-2023 11:55:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[31-Aug-2023 11:55:46 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 11:55:46 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 18:50:56 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[31-Aug-2023 18:50:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[31-Aug-2023 18:50:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[31-Aug-2023 18:50:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[31-Aug-2023 18:50:57 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[31-Aug-2023 18:50:57 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 04:05:31 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[01-Sep-2023 04:05:31 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[01-Sep-2023 04:05:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[01-Sep-2023 04:05:31 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[01-Sep-2023 04:05:31 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 04:05:31 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 04:17:06 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[01-Sep-2023 04:17:06 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[01-Sep-2023 04:17:06 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[01-Sep-2023 04:17:06 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[01-Sep-2023 04:17:06 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 04:17:06 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 06:08:17 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[01-Sep-2023 06:08:17 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[01-Sep-2023 06:08:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[01-Sep-2023 06:08:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[01-Sep-2023 06:08:17 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 06:08:17 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 08:50:02 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[01-Sep-2023 08:50:02 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[01-Sep-2023 08:50:02 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[01-Sep-2023 08:50:02 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[01-Sep-2023 08:50:02 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 08:50:02 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 09:21:39 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[01-Sep-2023 09:21:39 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[01-Sep-2023 09:21:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[01-Sep-2023 09:21:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[01-Sep-2023 09:21:39 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 09:21:39 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 15:33:23 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[01-Sep-2023 15:33:23 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[01-Sep-2023 15:33:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[01-Sep-2023 15:33:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[01-Sep-2023 15:33:23 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[01-Sep-2023 15:33:23 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[02-Sep-2023 06:33:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[02-Sep-2023 06:33:38 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 06:33:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 06:33:38 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 06:33:38 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[02-Sep-2023 06:35:14 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[02-Sep-2023 06:35:14 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 06:35:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 06:35:14 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 06:35:14 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[02-Sep-2023 06:44:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[02-Sep-2023 06:44:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 06:44:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 06:44:04 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 06:44:04 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 06:45:56 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[02-Sep-2023 06:45:56 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[02-Sep-2023 06:45:56 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[02-Sep-2023 06:45:56 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[02-Sep-2023 06:45:56 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 06:45:56 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[02-Sep-2023 08:25:20 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[02-Sep-2023 08:25:20 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 08:25:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 08:25:20 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 08:25:20 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[02-Sep-2023 08:40:34 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[02-Sep-2023 08:40:34 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 08:40:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[02-Sep-2023 08:40:34 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[02-Sep-2023 08:40:34 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[03-Sep-2023 11:38:40 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[03-Sep-2023 11:38:40 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[03-Sep-2023 11:38:40 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[03-Sep-2023 11:38:40 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[03-Sep-2023 11:38:41 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[03-Sep-2023 11:38:41 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[03-Sep-2023 11:38:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[03-Sep-2023 11:38:41 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[03-Sep-2023 11:38:41 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[04-Sep-2023 04:01:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[04-Sep-2023 04:01:51 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[04-Sep-2023 04:01:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[04-Sep-2023 04:01:51 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[04-Sep-2023 04:01:51 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[04-Sep-2023 07:47:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[04-Sep-2023 07:47:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[04-Sep-2023 07:47:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[04-Sep-2023 07:47:21 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[04-Sep-2023 07:47:21 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[04-Sep-2023 16:53:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[04-Sep-2023 16:53:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[04-Sep-2023 16:53:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[04-Sep-2023 16:53:52 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[04-Sep-2023 16:53:52 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[04-Sep-2023 21:23:35 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[04-Sep-2023 21:23:35 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[04-Sep-2023 21:23:35 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[04-Sep-2023 21:23:35 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[04-Sep-2023 21:23:36 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[04-Sep-2023 21:23:36 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[04-Sep-2023 21:23:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[04-Sep-2023 21:23:36 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[04-Sep-2023 21:23:36 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[06-Sep-2023 15:05:26 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[06-Sep-2023 15:05:26 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[06-Sep-2023 15:05:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[06-Sep-2023 15:05:26 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[06-Sep-2023 15:05:26 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[07-Sep-2023 04:40:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[07-Sep-2023 04:40:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[07-Sep-2023 04:40:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[07-Sep-2023 04:40:08 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[07-Sep-2023 04:40:08 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[07-Sep-2023 06:36:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[07-Sep-2023 06:36:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[07-Sep-2023 06:36:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[07-Sep-2023 06:36:25 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[07-Sep-2023 06:36:25 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[07-Sep-2023 15:28:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[07-Sep-2023 15:28:52 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[07-Sep-2023 15:28:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[07-Sep-2023 15:28:52 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[07-Sep-2023 15:28:52 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[07-Sep-2023 21:52:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[07-Sep-2023 21:52:54 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[07-Sep-2023 21:52:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[07-Sep-2023 21:52:54 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[07-Sep-2023 21:52:54 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[09-Sep-2023 11:20:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[09-Sep-2023 11:20:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[09-Sep-2023 11:20:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[09-Sep-2023 11:20:25 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[09-Sep-2023 11:20:25 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[09-Sep-2023 14:38:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[09-Sep-2023 14:38:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[09-Sep-2023 14:38:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[09-Sep-2023 14:38:08 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[09-Sep-2023 14:38:08 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[10-Sep-2023 05:38:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[10-Sep-2023 05:38:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[10-Sep-2023 05:38:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[10-Sep-2023 05:38:23 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[10-Sep-2023 05:38:23 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[11-Sep-2023 10:04:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[11-Sep-2023 10:04:21 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[11-Sep-2023 10:04:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[11-Sep-2023 10:04:21 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[11-Sep-2023 10:04:21 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[11-Sep-2023 11:00:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[11-Sep-2023 11:00:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[11-Sep-2023 11:00:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[11-Sep-2023 11:00:09 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[11-Sep-2023 11:00:09 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[11-Sep-2023 11:35:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[11-Sep-2023 11:35:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[11-Sep-2023 11:35:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[11-Sep-2023 11:35:59 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[11-Sep-2023 11:35:59 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 4
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined index: login in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 2
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 37
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 40
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 43
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 46
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 52
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 56
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined variable: url in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 59
+[12-Sep-2023 23:06:18 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[12-Sep-2023 23:06:18 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Undefined variable: result in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[12-Sep-2023 23:06:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 79
+[12-Sep-2023 23:06:18 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[12-Sep-2023 23:06:18 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[13-Sep-2023 06:08:08 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[13-Sep-2023 06:08:08 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[13-Sep-2023 06:08:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[13-Sep-2023 06:08:08 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[13-Sep-2023 06:08:08 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[13-Sep-2023 06:08:08 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[13-Sep-2023 06:08:15 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/head.php on line 5
+[13-Sep-2023 06:08:15 UTC] PHP Notice:  Undefined index: course in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 3
+[13-Sep-2023 06:08:15 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 62
+[13-Sep-2023 06:08:15 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/o17qonzlxlyz/iimsr.net.in/users/header/header.php on line 65
+[13-Sep-2023 06:08:15 UTC] PHP Warning:  include(footer/footer.php): failed to open stream: No such file or directory in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54
+[13-Sep-2023 06:08:15 UTC] PHP Warning:  include(): Failed opening 'footer/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o17qonzlxlyz/iimsr.net.in/users/index.php on line 54

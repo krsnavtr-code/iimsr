@@ -1,0 +1,148 @@
+.hrsidebar {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    border: 0;
+    border-top: 1px solid #009551;
+}
+@media(max-width:992px){
+    .progress-description, .info-box-text {
+        display: block;
+        font-size: 14px;
+        white-space: normal;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .infoboxcontent {
+        padding: 5px 10px;
+        margin-left: 0px !important;
+    }
+    .ImageClass{
+        height:40px !important;
+        width:40px !important;
+    }
+    .MobileDesktop{
+        display:none !important;
+    }
+}
+.MarginTops{
+    margin-top:1px !important;
+    border-radius:0px !important;
+}
+.Sidebarlogoi {
+    width: 100%;
+    max-width: 45px;
+    height: 48px;
+}
+.MobileDesktop{
+    display:block;
+}
+.PaymentImages{
+    width: 61px;
+    height: 58px;
+    border-radius: 50%;
+}
+.FormGroupp{
+    margin-bottom:1px;
+}
+.ImageClass{
+    height:40px;
+    width:40px;
+}
+.floatData{
+    margin: 1px;
+}
+hr.vertical {
+  width: 0px;
+  height: 100%;
+}
+.ActionButton {
+    padding: 5px 10px;
+    margin-left: 0px;
+}
+.ActionButtonRa{
+    border-radius:0px
+}
+.infoboxcontent {
+    padding: 5px 10px;
+    margin-left: -75px;
+}
+.infoboxicon {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 2px;
+    display: block;
+    float: left;
+    height: 90px;
+    width: 51px;
+    text-align: center;
+    font-size: 45px;
+    line-height: 89px;
+    /*background: rgba(0,0,0,0.2);*/
+}
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: #eee0;
+    opacity: 1;
+}
+.OperationHas{
+    text-align:center;
+	color:green;
+	font-weight:700;
+	font-size: 16px;
+}
+.AlreadyRegistered{
+    text-align:center;
+	color:#ff0000;
+	font-weight:700;
+	font-size: 16px;
+}
+.sameuniqeid{
+    text-align:center;
+	color:#ff0000;
+	font-weight:700;
+	font-size: 16px;
+}
+.ButtonRadis{
+    border-radius:0px;
+}
+.AdmitcardIm{
+    width: 90px !important;
+    height: 90px !important;
+    margin-top:10px !important;
+}
+.hrrr {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #161616a6;
+}
+.AdmitcardDi{
+    border-radius: 0px;
+    margin: 2px 0px 0px 0px;
+}
+.ApprPending{
+    float: right;
+    margin: -22px 12px 0px 0px;
+    border-radius: 0px;
+}
+.EditDelete{
+    margin: 0px 1px 0px 1px;
+    border-radius: 0px;
+}
+.DeleteEdit{
+    margin: 1px 1px 0px 1px;
+    border-radius: 0px;
+}
+.OperationHas{
+    color:green;
+    font-size:20px;
+    font-weight:700;
+    text-align:center;
+    margin: 5px 0px 6px 0px;
+}
+.AlreadyRegistered{
+    color:#ff0000;
+    font-size:20px;
+    font-weight:700;
+    text-align:center;
+}
